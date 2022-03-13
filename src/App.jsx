@@ -68,10 +68,13 @@ export default function App() {
 
     return (
 
-        <div>
+        <div>            
             <Header></Header>
+            <h1>hi github</h1>
             <Meme></Meme>
         </div>
+        
+        //some miner change for the git testing 
 
         // <div className="counter">
         //     <button className="counter--minus" onClick={subtract}>-</button>
